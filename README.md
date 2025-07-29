@@ -1,4 +1,4 @@
-# Apple_Data
+# ApplePulse: Global Store & Product Analytics
 
 ## Project Overview
 
